@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/ccady/xwlkCiti-1775062455645/:/",
+      "/content/ccady/xwlkCiti-1775062455645/configuration:/.helix/config.json",
+      "/content/ccady/xwlkCiti-1775062455645/metadata:/metadata.json",
+      "/content/ccady/xwlkCiti-1775062455645/configs:/configs.json",
+      "/content/ccady/xwlkCiti-1775062455645/configs-stage:/configs-stage.json",
+      "/content/ccady/xwlkCiti-1775062455645/configs-dev:/configs-dev.json",
+      "/content/ccady/xwlkCiti-1775062455645/redirects:/redirects.json",
+      "/content/ccady/xwlkCiti-1775062455645/placeholders:/placeholders.json",
+      "/content/ccady/xwlkCiti-1775062455645/products/recommended-products:/products/recommended-products.json",
+      "/content/ccady/xwlkCiti-1775062455645/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/ccady/xwlkCiti-1775062455645/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/ccady/xwlkCiti-1775062455645",
       "/content/dam/citisignal/images/products/"
     ]
 }
